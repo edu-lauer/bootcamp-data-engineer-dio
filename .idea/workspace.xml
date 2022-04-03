@@ -5,63 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="071ff381-7ff3-4f7e-aec1-2bcde4f5cf2d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/.idea/Bootcamp-Cognizant-Dio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/.idea/dictionaries/User.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/cliente_tcp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/cliente_udp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/comparador_hash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/desafio_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/desafio_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/desafio_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/desafio_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/desafio_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/desafio_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/gerador_hash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/gerador_senha.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/gerador_wordlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/http_request.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/manipulando_arquivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/notas.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/notas2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/ocultador_arquivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/ocultar_arquivo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/open_browser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/servidor_udp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/threads.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/tratamento_erro_excecao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/verificador_ip_ext.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/verificador_telefone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/web_crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Bootcamp-Cognizant-Dio/web_scraping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LetsCode/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LetsCode/.idea/LetsCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LetsCode/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LetsCode/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LetsCode/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LetsCode/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/calculadora-python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculadora_bootcamp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculadora_bootcamp/multiplicacao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculadora_bootcamp/soma.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculadora_bootcamp/subtracao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculadora_bootcamp/multiplicacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculadora_bootcamp/multiplicacao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +21,15 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1e7e78b8-e322-42bb-a6e4-082bbb71044a" />
+        <option name="url" value="https://github.com/edu-lauer/bootcamp-data-engineer-dio.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
